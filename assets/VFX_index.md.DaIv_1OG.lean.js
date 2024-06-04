@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,a4 as a}from"./chunks/framework.CysPtqB9.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"VFX/index.md","filePath":"VFX/index.md"}'),l={name:"VFX/index.md"},i=a("",3),o=[i];function n(s,_,c,d,h,p){return r(),t("div",null,o)}const m=e(l,[["render",n]]);export{u as __pageData,m as default};

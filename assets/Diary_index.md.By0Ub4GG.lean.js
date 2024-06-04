@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a4 as i}from"./chunks/framework.CysPtqB9.js";const p=JSON.parse('{"title":"CF日志","description":"","frontmatter":{},"headers":[],"relativePath":"Diary/index.md","filePath":"Diary/index.md"}'),r={name:"Diary/index.md"},_=i("",2),o=[_];function n(l,c,s,d,h,f){return t(),a("div",null,o)}const u=e(r,[["render",n]]);export{p as __pageData,u as default};
